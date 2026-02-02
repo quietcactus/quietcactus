@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quietcactus
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning next.js and tailwind
 - 💞️ I’m looking to collaborate on stuff?
 
 <!---
